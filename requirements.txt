@@ -2,5 +2,5 @@ selenium==4.18.1
 webdriver_manager==4.0.1
 python-dotenv==1.0.1
 requests==2.31.0
-pillow==10.2.0
+pillow==11.1.0
 ddddocr==1.4.10 
