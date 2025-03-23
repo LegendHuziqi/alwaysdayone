@@ -1,0 +1,11 @@
+{
+    "url": "https://detail.damai.cn/item.htm?id=你的演出ID",
+    "ticket_num": 1,
+    "real_name": ["张三"],
+    "price_preference": [880, 680, 480],
+    "session": {
+        "cookies": null
+    },
+    "refresh_interval": [0.5, 1],
+    "max_retries": 3
+} 
